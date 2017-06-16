@@ -1,6 +1,6 @@
 # multi-variable-linear-regression
 
-This repo contains python implementation of Multivariate Linear Regression to predict housing prices. By giving different dataset you can predict anything you want.
+This repo contains python implementation of Multivariate Linear Regression to predict housing prices. Currently the program predicts housing price provided the house size and no. of rooms as script arguments. By giving different dataset or modifying the script, you can predict anything you want.
 
 ## Requirements
 - [Numpy](http://www.numpy.org/)
