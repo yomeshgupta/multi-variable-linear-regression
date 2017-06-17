@@ -7,7 +7,7 @@ This repo contains python implementation of Multivariate Linear Regression to pr
 
 ## Installation
 
-Just clone this repo and do:
+Just clone this repo and do :
 
     python ls-multi.py <size> <rooms>
 
